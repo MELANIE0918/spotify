@@ -1,0 +1,63 @@
+.p1{
+    font-size: 40px; font-weight: 500; color: white;
+}
+.p2{
+    font-size: 15px; color: white;
+}
+.h4{
+    color: white;
+    text-align: center;
+    font-weight: 700;
+}
+.h5{
+    color: white;
+    text-align: center;
+    font-weight: 500;
+}
+.h42{
+    color: white;
+    text-align: center;
+    font-weight: 700;
+}
+.h6{
+    color: white;
+    text-align: center;
+    font-weight: 500; 
+}
+.divdiv{
+    text-align: center;
+}
+.h43{
+    color: white;
+    text-align: center;
+    font-weight: 700;
+}
+.h44{
+    color: white;
+    text-align: center;
+    font-weight: 500;
+    font-size: 15px;   
+}
+.h6{
+    color: white;
+    text-align: center;
+    font-weight: 400;
+    font-size: 15px;  
+}
+.p1{
+    color: white;
+}
+.p3{
+    color: lightgray;
+}
+.Student{
+    color: rgb(145, 75, 145);
+    font-weight: 500;
+}
+.duo{
+    color: rgb(255, 174, 0);
+}
+.Family{
+    color: lightskyblue;
+    font-weight: 500;
+}
